@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QbentRecClick</string>
+    <string name="get_data">explore</string>
+    <string name="back_home">back to home</string>
+    <string name="back_list">back to list</string>
+    <string name="login_btn">sign in</string>
+    <string name="go_main">explore</string>
+    <string name="log_out">sign out</string>
+    <string name="home_button">home</string>
+</resources>
